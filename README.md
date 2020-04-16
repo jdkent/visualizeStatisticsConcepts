@@ -4,7 +4,7 @@
 
 - [Seeing Theory](https://seeing-theory.brown.edu/)
   - covers many foundational concepts as well as a few intermediate/advanced concepts
-- [Rpsychologist](https://rpsychologist.com/category/d3js)
+- [Rpsychologist](https://rpsychologist.com/viz)
   - Maximum Likelihood
   - Statistical Power
   - other intermediate/advanced topics
