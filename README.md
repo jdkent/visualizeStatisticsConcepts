@@ -19,12 +19,12 @@
   - logistic regression
 - [d3gt](https://d3gt.com/index.html)
   - graph theory concepts
+- [Dr. Lisa DeBruine](https://shiny.psy.gla.ac.uk/debruine/)
+  - mixed effects modeling
+  - simulating data
 
 ## Blog Posts/Applications
 
-- [Mixed Effects Models (Simulation)](http://shiny.psy.gla.ac.uk/lmem_sim/)
-- [Mixed Effects Models (Crossed Random Effects)](http://shiny.psy.gla.ac.uk/Dale/crossed)
 - [Mixed Effects Models (Shrinkage)](http://m-clark.github.io/posts/2019-05-14-shrinkage-in-mixed-models/)
-- [p values](https://magnusnordmo.shinyapps.io/pvalue/)
 - [Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 - [Linear Regression](https://observablehq.com/@tmcw/bring-your-own-doodles-linear-regression)
